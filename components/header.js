@@ -5,6 +5,7 @@ function Header() {
 			<style jsx>{`
 				h1 {
 					color: red;
+					border: 3px solid red;
 				}
 			`}</style>
 		</header>
